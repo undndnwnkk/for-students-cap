@@ -1,0 +1,16 @@
+/* .common_text {
+    display: none;
+} */
+
+.common {
+    display: flex;
+    gap: 50px;
+}
+
+.red {
+    color: red;
+}
+
+.blue {
+    color: blue;
+}
